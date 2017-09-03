@@ -18,4 +18,9 @@ Make sure you have Cordoba installed and the andriod and ios requirements:
 https://cordova.apache.org/docs/en/latest/guide/cli/
 
 
+Note: You aren't done installing requirements until you run "cordova requirements" and get all green
+
+
+
+
 
