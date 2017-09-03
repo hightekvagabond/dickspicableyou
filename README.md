@@ -11,3 +11,11 @@ Tag a text message as a dickpic and archive the picture and phone number the off
 3) send a report for unwanted sexual harrassment to the authorities
 
 
+
+To contribute:
+
+Make sure you have Cordoba installed and the andriod and ios requirements:
+https://cordova.apache.org/docs/en/latest/guide/cli/
+
+
+
