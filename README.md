@@ -29,4 +29,16 @@ https://ionicframework.com/getting-started/
 
 
 
+----------------------------
+A note from a friend about how to do the blast:
+
+ I think if you publish his info you can let the community take action like waze. Waze as a company could not get away with publishing where police are hiding but community can do it with out suffering legal action.
+
+ Give your community resources like links to free pro subscriptions
+
+ And push it all thru a no log VPN
+
+ That was porn subscriptions
+----------------------------
+
 
