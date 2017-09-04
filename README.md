@@ -1,6 +1,9 @@
 # dickspicableyou
 
 
+The Thread that started this project: https://www.facebook.com/hightekvagabond/posts/10155746803019329
+(if you aren't my friend on facebook you can't see it, this is more for my own reference)
+
 This is a repo for a phone app for responding to unsolicited pictures of a sexual nature.
 
 Features I'd like to put in this app are:
