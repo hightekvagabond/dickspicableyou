@@ -42,3 +42,4 @@ A note from a friend about how to do the blast:
 ----------------------------
 
 
+we could add famous author replies: https://www.mcsweeneys.net/articles/famous-authors-reply-to-your-unsolicited-dick-pic
